@@ -2,7 +2,7 @@ Welcome to the MJML Email Starter Kit.
 
 To get started, make sure you have installed the extension of MJML within VS Code.
 
-Refer to this link[] for further documentation of the MJML elements.
+Refer to this link([https://documentation.mjml.io/#mj-attributes]) for further documentation of the MJML elements.
 
 You will code within the index.mjml file. Moving forward if you wanted to preview or export to an HTML file, you would do command + shift + P and type in MJML to view your options.
 
